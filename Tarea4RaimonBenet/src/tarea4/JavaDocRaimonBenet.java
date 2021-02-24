@@ -2,7 +2,7 @@ package tarea4;
 
 import java.util.Scanner;
 
-public class CribaRefactorizadaRaimonBenet {
+public class JavaDocRaimonBenet {
 
 	public static void localizador(int dim, boolean[] esPrimo) {
 		for (int i = 0; i < dim; i++)
